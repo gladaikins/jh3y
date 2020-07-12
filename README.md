@@ -1,4 +1,4 @@
-[![Social banner for jh3y](https://github.com/jh3y/jh3y/raw/master/assets/banner.svg?sanitize=true)](https://twitter.com/jh3yy)
+[![Social banner for jh3y](https://github.com/jh3y/jh3y/raw/master/assets/optimised-banner.svg)](https://twitter.com/jh3yy)
 
 # Hi! :wave:
 
